@@ -1,1 +1,1 @@
-# corelation
+# correlation
